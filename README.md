@@ -6,4 +6,4 @@ Features
 ✅ Add and manage items with price and quantity
 ✅ Auto-calculate total price, tax, and discounts
 ✅ Save billing records for future reference
-✅ Simple SQLite database integration (if applicable)
+✅ Simple SQLite database integration
